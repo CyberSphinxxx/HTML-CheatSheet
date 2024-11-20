@@ -1,0 +1,8 @@
+body{
+background-color: rgb(124, 124, 124) !important;
+}
+
+#site-title{
+    font-size: 3rem;
+    text-align: center;
+}
